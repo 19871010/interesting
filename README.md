@@ -1,5 +1,5 @@
 # 一些有趣的项目
-一些有趣的项目
+收集的一些有趣的项目
 
 [模拟器]
 
@@ -8,8 +8,6 @@ https://github.com/TASVideos/BizHawk
 [FlapPyBird]
 
 https://github.com/sourabhv/FlapPyBird
-
-A Flappy Bird Clone made using [python-pygame][1]
 
 使用方法
 -------
@@ -28,5 +26,36 @@ A Flappy Bird Clone made using [python-pygame][1]
 -------
 
 ![Flappy Bird](FlappyBird.png)
-
+![Mario](Mario.png)
 ![Mario](Mario.gif)
+
+Ubuntu安装OpenCV2
+-------
+1. 获取代码: 
+
+`wget https://github.com/opencv/opencv/archive/2.4.13.3.zip`
+
+2. 解压: 
+
+`unzip 2.4.13.3.zip`
+
+3. 安装环境:
+
+`sudo apt-get install build-essential`
+`sudo apt-get install cmake git libgtk2.0-dev pkg-config libavcodec-dev libavformat-dev libswscale-dev`
+`sudo apt-get install python-dev python-numpy libtbb2 libtbb-dev libjpeg-dev libpng-dev libtiff-dev libjasper-dev libdc1394-22-dev`
+`cd ~/opencv-2.4.13.3`
+`mkdir release`
+`cd release`
+
+4. 编译安装:
+
+`cmake -D CMAKE_BUILD_TYPE=RELEASE -D CMAKE_INSTALL_PREFIX=/usr/local ..`
+`sudo make`
+`sudo make install`
+
+安装pygame
+-------
+通过pip安装: 
+
+`pip install pygame`
