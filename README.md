@@ -25,10 +25,20 @@ https://github.com/sourabhv/FlapPyBird
 屏幕截图
 -------
 
-![Flappy Bird](FlappyBird.png)
-![Mario](Mario.png)
-![Console](LuaConsole.png)
-![Mario](Mario.gif)
+![image](images/FlappyBird.png)
+
+![image](images/FlappyBirdConsole.png)
+
+![image](images/Mario.png)
+
+![image](images/FlappyBirdConsole.gif)
+
+![image](images/FlappyBird.gif)
+
+![image](images/Mario.gif)
+
+![image](images/FaceRank.png)
+FaceRank
 
 Ubuntu安装OpenCV2
 -------
