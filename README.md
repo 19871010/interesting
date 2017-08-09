@@ -27,6 +27,7 @@ https://github.com/sourabhv/FlapPyBird
 
 ![Flappy Bird](FlappyBird.png)
 ![Mario](Mario.png)
+![Console](LuaConsole.png)
 ![Mario](Mario.gif)
 
 Ubuntu安装OpenCV2
@@ -42,16 +43,23 @@ Ubuntu安装OpenCV2
 3. 安装环境:
 
 `sudo apt-get install build-essential`
+
 `sudo apt-get install cmake git libgtk2.0-dev pkg-config libavcodec-dev libavformat-dev libswscale-dev`
+
 `sudo apt-get install python-dev python-numpy libtbb2 libtbb-dev libjpeg-dev libpng-dev libtiff-dev libjasper-dev libdc1394-22-dev`
+
 `cd ~/opencv-2.4.13.3`
+
 `mkdir release`
+
 `cd release`
 
 4. 编译安装:
 
 `cmake -D CMAKE_BUILD_TYPE=RELEASE -D CMAKE_INSTALL_PREFIX=/usr/local ..`
+
 `sudo make`
+
 `sudo make install`
 
 安装pygame
