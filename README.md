@@ -20,7 +20,7 @@ https://github.com/sourabhv/FlapPyBird
 
 4. 使用命令: `python flappy.py` 运行脚本
 
-5. 按 <kbd>&uarr;</kbd> 键或 <kbd>Space</kbd> 键开始,使用按 <kbd>Esc</kbd> 键结束。
+5. 按 <kbd>&uarr;</kbd> 键或 <kbd>Space</kbd> 键开始,按 <kbd>Esc</kbd> 键结束。
 
 屏幕截图
 -------
