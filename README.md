@@ -36,3 +36,4 @@ A Flappy Bird Clone made using [python-pygame][1]
 [1]: http://www.pygame.org
 
 ![Mario](Mario.gif)
+![image](https://github.com/Yesi-hoang/TaoBaoTopLine/blob/master/Gif/TaoBaoTopLineGif.gif)
