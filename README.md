@@ -1,8 +1,6 @@
-# interesting
+# 一些有趣的项目
 一些有趣的项目
 
-# 资源下载
-# 相关链接
 [模拟器]
 
 https://github.com/TASVideos/BizHawk
@@ -24,16 +22,11 @@ A Flappy Bird Clone made using [python-pygame][1]
 
 4. 使用命令: `python flappy.py` 运行脚本
 
-5. 使用 <kbd>&uarr;</kbd> 或 <kbd>Space</kbd> key 开始,使用 <kbd>Esc</kbd> 结束。
-
-(备注: Install pyGame for same version python as above)
+5. 按 <kbd>&uarr;</kbd> 键或 <kbd>Space</kbd> 键开始,使用按 <kbd>Esc</kbd> 键结束。
 
 屏幕截图
 -------
 
 ![Flappy Bird](FlappyBird.png)
 
-[1]: http://www.pygame.org
-
 ![Mario](Mario.gif)
-![image](https://github.com/Yesi-hoang/TaoBaoTopLine/blob/master/Gif/TaoBaoTopLineGif.gif)
