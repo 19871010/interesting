@@ -36,6 +36,45 @@
 ![image](images/FaceRank.png)
 
 
+项目名称: 图片生成（深度感知生成对抗网络 DCGAN ）
+
+项目地址: 
+
+项目依赖: 
+
+屏幕截图: 
+
+![image](images/FaceRank.png)
+
+项目实现: 
+
+1. 数据采集     http://konachan.net/
+
+2. 头像截取     https://github.com/nagadomi/lbpcascade_animeface
+
+3. 模型训练     https://github.com/carpedm20/DCGAN-tensorflow
+
+`
+if config.dataset == 'mnist':
+            data_X, data_y = self.load_mnist()
+        else:
+            data = glob(os.path.join("./data", config.dataset, "*.jpg"))
+`
+
+在data文件夹中再新建一个anime文件夹，把图片直接放到这个文件夹里，运行时指定--dataset anime
+
+//python main.py --image_size 96 --output_size 48 --dataset anime --is_crop True --is_train True --epoch 300 --input_fname_pattern "*.jpg"
+
+python main.py --input_height 96 --input_width 96 --output_height 48 --output_width 48 --dataset anime --crop --train --epoch 300 --input_fname_pattern "*.jpg"
+
+参考:
+
+https://zhuanlan.zhihu.com/p/24767059?utm_source=weibo&utm_medium=social
+
+https://zhuanlan.zhihu.com/p/25542274
+
+
+
 FlappyBird安装方法:
 ---
 
