@@ -7,15 +7,9 @@
 
 https://github.com/yenchenlin/DeepLearningFlappyBird
 
-![image](images/FlappyBird.png)
-
 ![image](images/FlappyBird.gif)
 
-![image](images/FlappyBirdConsole.gif)
-
 项目二:    人工智能玩SuperMario
-
-![image](images/Mario.png)
 
 ![image](images/Mario.gif)
 
