@@ -3,31 +3,41 @@
 
 概述
 ---
-项目一:    深度学习玩FlappyBird
+项目名称: FlappyBird（深度强化学习 DQN ）
 
-https://github.com/yenchenlin/DeepLearningFlappyBird
+项目地址: https://github.com/yenchenlin/DeepLearningFlappyBird
+
+项目依赖: Python、TensorFlow、PyGame、OpenCV2
+
+屏幕截图: 
 
 ![image](images/FlappyBird.gif)
 
-项目二:    人工智能玩SuperMario
+
+项目名称: MarI/O（神经网络+遗传算法 NEATEvolve ）
+
+源码地址: http://pastebin.com/ZZmSNaHX
+
+项目依赖: [BizHawk模拟器] https://github.com/TASVideos/BizHawk
+
+屏幕截图: 
 
 ![image](images/Mario.gif)
 
-项目三:    TensorFlow FaceRank
+
+项目名称: FaceRank（卷积神经网络 CNN ）
+
+项目地址: https://github.com/fendouai/FaceRank
+
+项目依赖: Python、TensorFlow、OpenCV2
+
+屏幕截图:
 
 ![image](images/FaceRank.png)
 
-安装依赖
+
+FlappyBird安装方法:
 ---
-
-
-使用方法
----
-
-[FlapPyBird]
-
-https://github.com/sourabhv/FlapPyBird
-
 
 1. 安装 Python 2.7.X 或 3.5.x [Python官网](https://www.python.org/download/releases/)
 
@@ -39,12 +49,8 @@ https://github.com/sourabhv/FlapPyBird
 
 5. 按 <kbd>&uarr;</kbd> 键或 <kbd>Space</kbd> 键开始,按 <kbd>Esc</kbd> 键结束。
 
-[BizHawk模拟器]
-
-https://github.com/TASVideos/BizHawk
-
 Ubuntu安装OpenCV2
--------
+---
 1. 获取代码: 
 
 `wget https://github.com/opencv/opencv/archive/2.4.13.3.zip`
@@ -74,9 +80,3 @@ Ubuntu安装OpenCV2
 `sudo make`
 
 `sudo make install`
-
-pygame安装
--------
-通过pip安装: 
-
-`pip install pygame`
