@@ -19,7 +19,7 @@
 源码地址: http://pastebin.com/ZZmSNaHX
 
 项目依赖: [BizHawk模拟器] https://github.com/TASVideos/BizHawk
-
+          [Lua API] http://tasvideos.org/Bizhawk/LuaFunctions.html
 屏幕截图: 
 
 ![image](images/Mario.gif)
