@@ -73,6 +73,11 @@ https://zhuanlan.zhihu.com/p/24767059?utm_source=weibo&utm_medium=social
 
 https://zhuanlan.zhihu.com/p/25542274
 
+keras-rl
+
+http://www.cs.cmu.edu/~tom7/mario/
+suckerpinch
+youtu.be/xOCurBYI_gY
 
 
 FlappyBird安装方法:
