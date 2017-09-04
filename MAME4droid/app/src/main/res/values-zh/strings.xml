@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_vkey_X">按键-X</string>
+    <string name="menu_vkey_Y">按键-Y</string>
+    <string name="menu_vkey_A">按键-A</string>
+    <string name="menu_vkey_B">按键-B</string>
+    <string name="menu_vkey_MENU">菜单</string>
+    <string name="menu_vkey_SELECT">选择</string>
+    <string name="menu_vkeys">虚拟按键</string>
+    <string name="menu_options">选项</string>
+    <string name="menu_quit_game">退出游戏</string>
+    <string name="menu_quit">退出软件</string>
+    <string name="app_name">街机模拟器</string>
+    <string name="disconnect">断开连接</string>
+    <string name="join_peer_game">加入游戏</string>
+    <string name="start_game">开始游戏</string>
+    <string name="netplay">网络对战</string>
+    <string name="connection">同一网络对战</string>
+    <string name="wifiTIP">提示:选择‘是’打开一个能够获得最佳网络性能的Wi-Fi接入点，或选择‘否’在同一个Wi-Fi设备之间直接连接。</string>
+    <string name="don_t_bother">不再询问</string>
+    <string name="UserPreferences">设置</string>
+    <string name="Help">帮助</string>
+    <string name="Define_Keys">自定义按键</string>
+    <string name="Player_Keys">玩家按键</string>
+    <string name="Select_Key">选择按键</string>
+    <string name="Setting">设置</string>
+    <string name="No">否</string>
+    <string name="Yes">是</string>
+    <string name="Exit_Confirm_Game">确定退出游戏吗?</string>
+    <string name="Exit_Confirm_App">确定退出程序吗?</string>
+    <string name="Path_Confirm_ROMs">是否使用默认ROMs路径(推荐)?</string>
+    <string name="Save_Confirm">确定要保存修改吗?</string>
+</resources>
