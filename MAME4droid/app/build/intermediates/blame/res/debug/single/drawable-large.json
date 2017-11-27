@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "E:\\interesting\\MAME4droid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large\\dpad_down_right.png",
+        "source": "E:\\interesting\\MAME4droid\\app\\src\\main\\res\\drawable-large\\dpad_down_right.png"
+    },
+    {
+        "merged": "E:\\interesting\\MAME4droid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large\\dpad_down.png",
+        "source": "E:\\interesting\\MAME4droid\\app\\src\\main\\res\\drawable-large\\dpad_down.png"
+    },
+    {
+        "merged": "E:\\interesting\\MAME4droid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large\\stick_down_right.png",
+        "source": "E:\\interesting\\MAME4droid\\app\\src\\main\\res\\drawable-large\\stick_down_right.png"
+    },
+    {
+        "merged": "E:\\interesting\\MAME4droid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large\\stick_up_right.png",
+        "source": "E:\\interesting\\MAME4droid\\app\\src\\main\\res\\drawable-large\\stick_up_right.png"
+    },
+    {
+        "merged": "E:\\interesting\\MAME4droid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large\\back_portrait.png",
+        "source": "E:\\interesting\\MAME4droid\\app\\src\\main\\res\\drawable-large\\back_portrait.png"
+    },
+    {
+        "merged": "E:\\interesting\\MAME4droid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large\\dpad_up_left.png",
+        "source": "E:\\interesting\\MAME4droid\\app\\src\\main\\res\\drawable-large\\dpad_up_left.png"
+    },
+    {
+        "merged": "E:\\interesting\\MAME4droid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large\\stick_up_left.png",
+        "source": "E:\\interesting\\MAME4droid\\app\\src\\main\\res\\drawable-large\\stick_up_left.png"
+    },
+    {
+        "merged": "E:\\interesting\\MAME4droid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large\\dpad_right.png",
+        "source": "E:\\interesting\\MAME4droid\\app\\src\\main\\res\\drawable-large\\dpad_right.png"
+    },
+    {
+        "merged": "E:\\interesting\\MAME4droid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large\\dpad_up_right.png",
+        "source": "E:\\interesting\\MAME4droid\\app\\src\\main\\res\\drawable-large\\dpad_up_right.png"
+    },
+    {
+        "merged": "E:\\interesting\\MAME4droid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large\\stick_down_left.png",
+        "source": "E:\\interesting\\MAME4droid\\app\\src\\main\\res\\drawable-large\\stick_down_left.png"
+    },
+    {
+        "merged": "E:\\interesting\\MAME4droid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large\\dpad_up.png",
+        "source": "E:\\interesting\\MAME4droid\\app\\src\\main\\res\\drawable-large\\dpad_up.png"
+    },
+    {
+        "merged": "E:\\interesting\\MAME4droid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large\\stick_down.png",
+        "source": "E:\\interesting\\MAME4droid\\app\\src\\main\\res\\drawable-large\\stick_down.png"
+    },
+    {
+        "merged": "E:\\interesting\\MAME4droid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large\\stick_left.png",
+        "source": "E:\\interesting\\MAME4droid\\app\\src\\main\\res\\drawable-large\\stick_left.png"
+    },
+    {
+        "merged": "E:\\interesting\\MAME4droid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large\\stick_right.png",
+        "source": "E:\\interesting\\MAME4droid\\app\\src\\main\\res\\drawable-large\\stick_right.png"
+    },
+    {
+        "merged": "E:\\interesting\\MAME4droid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large\\stick_up.png",
+        "source": "E:\\interesting\\MAME4droid\\app\\src\\main\\res\\drawable-large\\stick_up.png"
+    },
+    {
+        "merged": "E:\\interesting\\MAME4droid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large\\dpad_none.png",
+        "source": "E:\\interesting\\MAME4droid\\app\\src\\main\\res\\drawable-large\\dpad_none.png"
+    },
+    {
+        "merged": "E:\\interesting\\MAME4droid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large\\dpad_left.png",
+        "source": "E:\\interesting\\MAME4droid\\app\\src\\main\\res\\drawable-large\\dpad_left.png"
+    },
+    {
+        "merged": "E:\\interesting\\MAME4droid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large\\dpad_down_left.png",
+        "source": "E:\\interesting\\MAME4droid\\app\\src\\main\\res\\drawable-large\\dpad_down_left.png"
+    },
+    {
+        "merged": "E:\\interesting\\MAME4droid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large\\stick_none.png",
+        "source": "E:\\interesting\\MAME4droid\\app\\src\\main\\res\\drawable-large\\stick_none.png"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "E:\\interesting\\MAME4droid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-zh\\button_start.png",
+        "source": "E:\\interesting\\MAME4droid\\app\\src\\main\\res\\drawable-zh\\button_start.png"
+    },
+    {
+        "merged": "E:\\interesting\\MAME4droid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-zh\\button_coin.png",
+        "source": "E:\\interesting\\MAME4droid\\app\\src\\main\\res\\drawable-zh\\button_coin.png"
+    },
+    {
+        "merged": "E:\\interesting\\MAME4droid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-zh\\button_exit.png",
+        "source": "E:\\interesting\\MAME4droid\\app\\src\\main\\res\\drawable-zh\\button_exit.png"
+    },
+    {
+        "merged": "E:\\interesting\\MAME4droid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-zh\\button_option.png",
+        "source": "E:\\interesting\\MAME4droid\\app\\src\\main\\res\\drawable-zh\\button_option.png"
+    },
+    {
+        "merged": "E:\\interesting\\MAME4droid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-zh\\button_exit_press.png",
+        "source": "E:\\interesting\\MAME4droid\\app\\src\\main\\res\\drawable-zh\\button_exit_press.png"
+    },
+    {
+        "merged": "E:\\interesting\\MAME4droid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-zh\\button_start_press.png",
+        "source": "E:\\interesting\\MAME4droid\\app\\src\\main\\res\\drawable-zh\\button_start_press.png"
+    },
+    {
+        "merged": "E:\\interesting\\MAME4droid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-zh\\button_option_press.png",
+        "source": "E:\\interesting\\MAME4droid\\app\\src\\main\\res\\drawable-zh\\button_option_press.png"
+    },
+    {
+        "merged": "E:\\interesting\\MAME4droid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-zh\\button_coin_press.png",
+        "source": "E:\\interesting\\MAME4droid\\app\\src\\main\\res\\drawable-zh\\button_coin_press.png"
+    }
+]

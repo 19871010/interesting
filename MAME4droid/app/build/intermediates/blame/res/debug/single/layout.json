@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "E:\\interesting\\MAME4droid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bar.xml",
+        "source": "E:\\interesting\\MAME4droid\\app\\src\\main\\res\\layout\\bar.xml"
+    },
+    {
+        "merged": "E:\\interesting\\MAME4droid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "E:\\interesting\\MAME4droid\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "E:\\interesting\\MAME4droid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\emuview_gl_ext.xml",
+        "source": "E:\\interesting\\MAME4droid\\app\\src\\main\\res\\layout\\emuview_gl_ext.xml"
+    },
+    {
+        "merged": "E:\\interesting\\MAME4droid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\netplayview.xml",
+        "source": "E:\\interesting\\MAME4droid\\app\\src\\main\\res\\layout\\netplayview.xml"
+    },
+    {
+        "merged": "E:\\interesting\\MAME4droid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\webhelp.xml",
+        "source": "E:\\interesting\\MAME4droid\\app\\src\\main\\res\\layout\\webhelp.xml"
+    },
+    {
+        "merged": "E:\\interesting\\MAME4droid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\emuview_sw.xml",
+        "source": "E:\\interesting\\MAME4droid\\app\\src\\main\\res\\layout\\emuview_sw.xml"
+    },
+    {
+        "merged": "E:\\interesting\\MAME4droid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\emuview_gl.xml",
+        "source": "E:\\interesting\\MAME4droid\\app\\src\\main\\res\\layout\\emuview_gl.xml"
+    },
+    {
+        "merged": "E:\\interesting\\MAME4droid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_fullscreen.xml",
+        "source": "E:\\interesting\\MAME4droid\\app\\src\\main\\res\\layout\\main_fullscreen.xml"
+    },
+    {
+        "merged": "E:\\interesting\\MAME4droid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\wifiwarnview.xml",
+        "source": "E:\\interesting\\MAME4droid\\app\\src\\main\\res\\layout\\wifiwarnview.xml"
+    }
+]

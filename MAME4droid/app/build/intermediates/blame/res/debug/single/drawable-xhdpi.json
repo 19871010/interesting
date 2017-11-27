@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\interesting\\MAME4droid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\fake.png",
+        "source": "E:\\interesting\\MAME4droid\\app\\src\\main\\res\\drawable-xhdpi\\fake.png"
+    },
+    {
+        "merged": "E:\\interesting\\MAME4droid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ouya_icon.png",
+        "source": "E:\\interesting\\MAME4droid\\app\\src\\main\\res\\drawable-xhdpi\\ouya_icon.png"
+    }
+]

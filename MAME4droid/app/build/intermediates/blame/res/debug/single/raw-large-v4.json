@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\interesting\\MAME4droid\\app\\build\\intermediates\\res\\merged\\debug\\raw-large-v4\\controller_landscape.txt",
+        "source": "E:\\interesting\\MAME4droid\\app\\src\\main\\res\\raw-large\\controller_landscape.txt"
+    },
+    {
+        "merged": "E:\\interesting\\MAME4droid\\app\\build\\intermediates\\res\\merged\\debug\\raw-large-v4\\controller_landscape_16_9.txt",
+        "source": "E:\\interesting\\MAME4droid\\app\\src\\main\\res\\raw-large\\controller_landscape_16_9.txt"
+    },
+    {
+        "merged": "E:\\interesting\\MAME4droid\\app\\build\\intermediates\\res\\merged\\debug\\raw-large-v4\\controller_portrait_full.txt",
+        "source": "E:\\interesting\\MAME4droid\\app\\src\\main\\res\\raw-large\\controller_portrait_full.txt"
+    },
+    {
+        "merged": "E:\\interesting\\MAME4droid\\app\\build\\intermediates\\res\\merged\\debug\\raw-large-v4\\controller_portrait.txt",
+        "source": "E:\\interesting\\MAME4droid\\app\\src\\main\\res\\raw-large\\controller_portrait.txt"
+    }
+]

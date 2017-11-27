@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\interesting\\MAME4droid\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\emuview_gl_ext.xml",
+        "source": "E:\\interesting\\MAME4droid\\app\\src\\main\\res\\layout-land\\emuview_gl_ext.xml"
+    },
+    {
+        "merged": "E:\\interesting\\MAME4droid\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\emuview_gl.xml",
+        "source": "E:\\interesting\\MAME4droid\\app\\src\\main\\res\\layout-land\\emuview_gl.xml"
+    },
+    {
+        "merged": "E:\\interesting\\MAME4droid\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\emuview_sw.xml",
+        "source": "E:\\interesting\\MAME4droid\\app\\src\\main\\res\\layout-land\\emuview_sw.xml"
+    },
+    {
+        "merged": "E:\\interesting\\MAME4droid\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\main.xml",
+        "source": "E:\\interesting\\MAME4droid\\app\\src\\main\\res\\layout-land\\main.xml"
+    }
+]
