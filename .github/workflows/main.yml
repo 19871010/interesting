@@ -40,5 +40,4 @@ jobs:
           AGENTSECRET: ${{ secrets.AGENTSECRET }}
           CONTENT: |
             ${{ github.Repository }}
-            ${{ job.status }}
             这是一条文字<a href="http://work.weixin.qq.com">消息</a>!
