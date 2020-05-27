@@ -126,3 +126,4 @@ Ubuntu安装OpenCV2
 `sudo make`
 
 `sudo make install`
+
